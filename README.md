@@ -1,4 +1,5 @@
 # Artimuse
+![alt text](https://wowdao.ai/storage/project_images/ce21ca14a54cd2653601b209e9ad9f9a.jpg)
 
 - The "Artimuse Demo" notebook includes a demo of the chat interface built with Gradio.
 - The "image-2-image using diffusers" notebook showcases the technological feasibility for interative image generation.
